@@ -1,4 +1,4 @@
-package com.shane.lea.utils;
+package com.shane.lea.bytebuffer.utils;
 
 import io.netty.util.internal.StringUtil;
 

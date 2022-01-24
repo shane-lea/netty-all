@@ -1,3 +1,4 @@
 # netty-all
 netty itcast learn 
-*/.idea
+ 
+- text bytebuffer

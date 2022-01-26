@@ -1,4 +1,4 @@
-package com.shane.lea.websocket.olo;
+package com.shane.lea.websocket.oio;
 
 import lombok.extern.slf4j.Slf4j;
 

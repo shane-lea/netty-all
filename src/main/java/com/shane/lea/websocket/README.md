@@ -33,8 +33,7 @@
     * 有可写事件才去写入
         * 限于网络传输能力，Channel 未必时时可写，一旦 Channel 可写，会触发 Selector 的可写事件
 
-
-
+  
 ### 4.2 Selector
 
 ```mermaid
